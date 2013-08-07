@@ -38,7 +38,7 @@
                         <undeployBeforeDeploy>true</undeployBeforeDeploy>
                         <proguard>
                             <skip>false</skip>
-                            <config>../proguard.cfg</config>
+                            
                         </proguard>
                     </configuration>
                 </plugin>
